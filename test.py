@@ -1,0 +1,1 @@
+ffmpeg -ss 5 -i video.mp4 -frames:v 1 -q:v 2 thumb.jpg
